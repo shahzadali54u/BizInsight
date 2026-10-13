@@ -1,16 +1,86 @@
-# React + Vite
+# BizInsight — Business Analytics Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive business analytics dashboard built with React and Recharts to visualize business performance, monitor key metrics, and explore sales data.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**[View BizInsight Live](https://biz-insight-gules.vercel.app/)**
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Interactive Dashboard** — View key performance indicators (KPIs).
+- **Revenue Analytics** — Visualize revenue and performance trends.
+- **Orders Tracking** — Explore order-related metrics and sales records.
+- **Customer Insights** — Review customer information and analytics.
+- **Product Management** — Explore product-related information.
+- **Date Range Filters** — Switch between available reporting periods.
+- **Sales Data Export** — Export sales records to CSV.
+- **Responsive Design** — Layout adapts to desktop and mobile screens.
+- **Settings & Notifications** — Explore dashboard preferences and notifications.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- Recharts
+- CSS
+- Git & GitHub
+- Vercel
+
+## 💻 Run Locally
+
+### Prerequisites
+
+- Node.js
+- npm
+- Git
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/shahzadali54u/BizInsight.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd BizInsight
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+## 🎯 Project Goal
+
+BizInsight was created as a portfolio project to demonstrate frontend development skills, dashboard UI design, data visualization, responsive layouts, and practical use of React.
+
+## 👨‍💻 Developer
+
+**Shahzad Ali**
+
+- GitHub: [@shahzadali54u](https://github.com/shahzadali54u)
+- Live Project: [BizInsight Dashboard](https://biz-insight-gules.vercel.app/)
+
+---
+
+*Built with React and Recharts.*

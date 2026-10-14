@@ -6,8 +6,11 @@ A modern, responsive business analytics dashboard built with React and Recharts 
 
 ## 📸 Dashboard Preview
 
-![BizInsight Dashboard](public/screenshots/dashboard.png)
+## 📸 Dashboard Preview
 
+![BizInsight Dashboard](public/Screenshot/Dashboard2.png)
+
+![BizInsight Dashboard Analytics](public/Screenshot/Dashboard4.png)
 
 **[View BizInsight Live](https://biz-insight-gules.vercel.app/)**
 
